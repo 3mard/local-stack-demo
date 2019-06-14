@@ -1,0 +1,6 @@
+dist
+node_modules
+terraform/.terraform
+*.tfstate.*
+*.tfstate
+
